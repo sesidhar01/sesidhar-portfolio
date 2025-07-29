@@ -1,0 +1,14 @@
+{
+  "name": "sesidhar-portfolio",
+  "version": "1.0.0",
+  "description": "Professional portfolio website for Sesidhar Chittajallu",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "serve": "node server.js"
+  },
+  "keywords": ["portfolio", "frontend", "developer", "react", "angular"],
+  "author": "Sesidhar Chittajallu",
+  "license": "MIT"
+}
